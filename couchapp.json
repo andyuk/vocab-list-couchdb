@@ -1,0 +1,5 @@
+{
+	"name": "Vocab App",
+	"description": "A fun way to manage your vocab!",
+	"index" : "_design/vocab-app/index.html"
+}
