@@ -36,7 +36,7 @@ $('button.show_answer').live('click', function(event) {
 	return false;
 });
 
-$('form').submit(function(event) {
+$('#main form').submit(function(event) {
 	
 	correctAnswers();
 	
